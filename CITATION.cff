@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this ontology or the register findings, please cite it."
+title: "Insurance Register Ontology (IRO): the EEA insurance register fabric as a knowledge graph"
+authors:
+  - family-names: Rovai
+    given-names: Fabio
+    email: fabio@thetesseractacademy.com
+date-released: 2026-08-14
+url: "https://github.com/fabio-rovai/insurance-register-ontology"
+license: MIT
+keywords:
+  - insurance
+  - reinsurance
+  - ontology
+  - knowledge graph
+  - LEI
+  - EIOPA
+  - GLEIF
+  - Solvency II
+  - SHACL
+  - data governance

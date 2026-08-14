@@ -1,0 +1,11 @@
+# Register-active undertakings whose GLEIF entity status is INACTIVE:
+# one system says authorised, the other says the company has ceased.
+PREFIX iro: <https://gov.tesseract.academy/def/insurance#>
+SELECT ?name ?home ?lei ?gleifName WHERE {
+    ?reg iro:registrationOf ?u .
+    FILTER NOT EXISTS { ?reg iro:registrationEnd ?end }
+    ?u iro:legalName ?name ; iro:homeCountry ?home ; iro:identifiedBy ?id .
+    ?id a iro:LEI ; iro:identifierValue ?lei ;
+        iro:gleifEntityStatus "INACTIVE" ;
+        iro:gleifLegalName ?gleifName .
+}

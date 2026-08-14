@@ -1,0 +1,9 @@
+# LEIs identifying more than one distinct undertaking, with both names.
+PREFIX iro: <https://gov.tesseract.academy/def/insurance#>
+SELECT ?lei ?name1 ?name2 WHERE {
+    ?id a iro:LEI ; iro:identifierValue ?lei ;
+        iro:identifies ?u1, ?u2 .
+    FILTER (STR(?u1) < STR(?u2))
+    ?u1 iro:legalName ?name1 . ?u2 iro:legalName ?name2 .
+    FILTER (?name1 != ?name2)
+}

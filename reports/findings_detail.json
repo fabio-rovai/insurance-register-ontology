@@ -1,0 +1,1402 @@
+{
+  "r2_bad_checksum": [
+    [
+      "00000000000000000000",
+      "European Risk Insurance Company ehf.",
+      "DE"
+    ],
+    [
+      "529900TDXS505XDXWZ69",
+      "Forsikringsaktieselskabet K.a.B. International",
+      "DK"
+    ],
+    [
+      "549300X77HR0ZWZELM25",
+      "Застрахователно акционерно дружество Булстрад Виена Иншурънс Груп",
+      "BG"
+    ],
+    [
+      "5493O00MN7XN3BBKCE67",
+      "AP Skadesforsikring Aktieselskab",
+      "DK"
+    ]
+  ],
+  "r1_no_lei_by_country": {
+    "DE": 492,
+    "SE": 81,
+    "BE": 24,
+    "AT": 23,
+    "DK": 5,
+    "BG": 5,
+    "HU": 4,
+    "NO": 4,
+    "SK": 1,
+    "CY": 1,
+    "FI": 1,
+    "NL": 1,
+    "FR": 1
+  },
+  "r3_lapsed": [
+    [
+      "213800QWL4SCYLFFAE38",
+      "WHITE ROCK INSURANCE (EUROPE) PCC LIMITED",
+      "MT"
+    ],
+    [
+      "529900L6X7SJBJ1UEH60",
+      "Gegenseitiger Brandschaden-Versicherungsverein Nockberge",
+      "AT"
+    ],
+    [
+      "9598006PGQ35QFWXNC48",
+      "MUTUALIDAD DE PREVISION SOCIAL A PRIMA FIJA DE EMPLEADOS DE LA CAJA DE AHORROS DE VALENCIA",
+      "ES"
+    ],
+    [
+      "959800H72PGUY881TC86",
+      "SOCIEDAD FILANTROPICA DEL COMERCIO, INDUSTRIA Y BANCA DE MADRID, MUTUALIDAD DE PREVISION SOCIAL",
+      "ES"
+    ],
+    [
+      "9598008THEC47LX0XE43",
+      "MONTEPIO DE TELEFONOS MUTUALIDAD DE PREVISIÓN SOCIAL",
+      "ES"
+    ],
+    [
+      "959800SD7FSKWFZ5BG18",
+      "MUTUALIDAD ESCOLAR Y FAMILIAR DE PREVISION SOCIAL",
+      "ES"
+    ],
+    [
+      "959800C46X2TAZA08Q79",
+      "Previsión Vida y Seguros, Mutualidad de Previsión Social",
+      "ES"
+    ],
+    [
+      "9598004MSA6AXJVQQV49",
+      "POLICLINICO, CENTRO MEDICO DE SEGUROS, S.A.",
+      "ES"
+    ],
+    [
+      "9598004J227WWH4YKQ12",
+      "ASOCIACION EUROPEA COMPAÑIA DE SEGUROS, S.A.",
+      "ES"
+    ],
+    [
+      "959800VP29N7HZJ1KD83",
+      "ONLYGAL SEGUROS Y REASEGUROS, SOCIEDAD ANÓNIMA",
+      "ES"
+    ],
+    [
+      "529900EO1BJZOYIB0W66",
+      "Hohenauer Versicherung auf Gegenseitigkeit",
+      "AT"
+    ],
+    [
+      "529900OCH9QJYXWD2J92",
+      "Enns- und Paltentaler Versicherungsverein auf Gegenseitigkeit",
+      "AT"
+    ],
+    [
+      "52990097HEM6G3FED703",
+      "Europäische Reiseversicherung Aktiengesellschaft",
+      "AT"
+    ],
+    [
+      "529900YZOPWUXS9XRT90",
+      "Wechselseitiger Versicherungsverein Steinbach an der Steyr",
+      "AT"
+    ],
+    [
+      "222100ZQK70812DFN486",
+      "SIDOBRE RE S.A.",
+      "LU"
+    ],
+    [
+      "529900AZ5DPPK6DMRB27",
+      "Wechselseitige Brandschaden Versicherung Ausseerland",
+      "AT"
+    ],
+    [
+      "549300XCVT7CTS2BCJ15",
+      "Gotlands läns fiskeriförsäkringsbolag",
+      "SE"
+    ],
+    [
+      "213800NBEBO3K1S14K46",
+      "YPERA INSURANCE CO. LTD",
+      "CY"
+    ],
+    [
+      "549300ZE5XVFSMPZ3F48",
+      "Mandatum Life Insurance Baltic SE",
+      "EE"
+    ],
+    [
+      "54930018R45RNR82T848",
+      "aktsiaselts SEB Elu-ja Pensionikindlustus",
+      "EE"
+    ],
+    [
+      "213800VZP6XQLKG7ID13",
+      "PFA Soraarneq, forsikringsaktieselskab",
+      "DK"
+    ],
+    [
+      "549300SNHT6XI6FSRV22",
+      "Danske Privatbaners Forsikringsforening G/S",
+      "DK"
+    ],
+    [
+      "213800WW2Y3KXLEQF466",
+      "HIDS HERREDS SAMT GRØNBÆK. HINGE OG VINDERSLEV SOGNES BRANDFORSIKRING FOR RØRLIG EJENDOM - GENSIDIG",
+      "DK"
+    ],
+    [
+      "21380058W2NPN7D12X85",
+      "ULYKKESFORSIKRINGSFORBUNDET FOR DANSK SØFART. GENSIDIGT FORBUND",
+      "DK"
+    ],
+    [
+      "5967007LIEEXZX8W1480",
+      "KNIF TRYGGHET FORSIKRING AS",
+      "NO"
+    ],
+    [
+      "5967007LIEEXZX9T7K21",
+      "HAVTRYGD GJENSIDIG FORSIKRING",
+      "NO"
+    ],
+    [
+      "5967007LIEEXZXA1P485",
+      "INDRE SUNNMØRE GJENSIDIG BRANNKASSE",
+      "NO"
+    ],
+    [
+      "5967007LIEEXZXAO2O30",
+      "SKOGBRAND FORSIKRINGSSELSKAP GJENSIDIG",
+      "NO"
+    ],
+    [
+      "74780000H0HHL1OVM657",
+      "TRIGLAV OSIGURANJE d. d.",
+      "HR"
+    ],
+    [
+      "529900OQ6VHVZW2I0D51",
+      "Süddeutsche Allgemeine Versicherung a.G.",
+      "DE"
+    ],
+    [
+      "5299009WBNUCLFIMV712",
+      "Deutsche Assistance Versicherung Aktiengesellschaft",
+      "DE"
+    ],
+    [
+      "5299005VJLVB61JCBN51",
+      "ÖRAG Rechtsschutzversicherungs-Aktiengesellschaft",
+      "DE"
+    ],
+    [
+      "391200OOJRE1QUH0FL80",
+      "SBB Insurance AG",
+      "LI"
+    ],
+    [
+      "529900TOEV4RXEX6MX09",
+      "Застрахователно акционерно дружество ЗДРАВНООСИГУРИТЕЛЕН ИНСТИТУТ АД",
+      "BG"
+    ],
+    [
+      "485100BW2UB231FQQB96",
+      "Застрахователна компания Юроамерикан АД",
+      "BG"
+    ],
+    [
+      "549300OUBZMF5IUWIF49",
+      "ЗАСТРАХОВАТЕЛНО АКЦИОНЕРНО ДРУЖЕСТВО ЕКСПРЕС ЖИВОТОЗАСТРАХОВАНЕ АД",
+      "BG"
+    ],
+    [
+      "213800KOZ1PVC8TLM824",
+      "CYPRIALIFE ΕΛΛΑΔΟΣ ΜΟΝΟΠΡΟΣΩΠΗ Α.Ε.",
+      "EL"
+    ],
+    [
+      "213800YLST53YNI65P78",
+      "ΜΕΝΤΙΤΕΡΡΑΝΙΑ ΑΝΩΝΥΜΗ ΑΣΦΑΛΙΣΤΙΚΗ ΕΤΑΙΡΕΙΑ ΖΗΜΙΩΝ",
+      "EL"
+    ],
+    [
+      "485100N8J1YU6SFIT277",
+      "Застрахователно дружество Нова Инс ЕАД",
+      "BG"
+    ],
+    [
+      "529900WNL0Z6N20EPY14",
+      "Застрахователна компания Надежда АД",
+      "BG"
+    ],
+    [
+      "724500T9HJEE99BRS137",
+      "Onderlinge Waarborg Maatschappij Achterhoek U.A.",
+      "NL"
+    ],
+    [
+      "724500H2CCB8A6W9BT31",
+      "OVM Onderlinge Verzekeringen U.A.",
+      "NL"
+    ],
+    [
+      "724500MCKWO6E5KAY245",
+      "De Luchtvaart Onderlinge W.A.",
+      "NL"
+    ],
+    [
+      "724500ZSZJ9SL228HZ10",
+      "Juwon Onderlinge Schade Maatschappij U.A.",
+      "NL"
+    ],
+    [
+      "7245002JM5HPD0EGR107",
+      "DLE Natura Uitvaartverzekeringen N.V.",
+      "NL"
+    ],
+    [
+      "724500XOU6B0MYKUTW78",
+      "Onderlinge Verzekerings Maatschappij Rijn en Aar U.A.",
+      "NL"
+    ],
+    [
+      "549300DWWK05FSVX2K03",
+      "Дженерали Животозастраховане АД",
+      "BG"
+    ],
+    [
+      "3912006A0JNGI1FPNP10",
+      "Öffentliche Versicherung Bremen",
+      "DE"
+    ],
+    [
+      "635400EMOPCKZRM33D49",
+      "Newell Insurance Designated Activity Company",
+      "IE"
+    ],
+    [
+      "969500PMJMYGILIZWB85",
+      "ASSURANCE MUTUELLE D ILLKIRCH GRAFFENSTADEN",
+      "FR"
+    ],
+    [
+      "9695005GA0IFCNIWSK87",
+      "MUTUELLE ENTRENOUS",
+      "FR"
+    ],
+    [
+      "9695006GKUPXSLN3RR75",
+      "GROUPEMENT FRANCAIS DE CAUTION",
+      "FR"
+    ],
+    [
+      "9695008U18XZN1ZIV397",
+      "MUTUELLE DE PONTOISE",
+      "FR"
+    ],
+    [
+      "969500P57R01RF11LK84",
+      "SOCIETE MUTUELLE INTERENTREPRISES DU PERSONNEL DES SOCIETES DU GROUPE AVIVA FRANCE",
+      "FR"
+    ],
+    [
+      "969500DONBM20E177130",
+      "MUTUELLE INTERENTREPRISES DU GAN",
+      "FR"
+    ],
+    [
+      "9695003AS9VMX56C2P90",
+      "MUTUELLE DU PERSONNEL DE LA BANQUE POPULAIRE DU SUD",
+      "FR"
+    ],
+    [
+      "969500YMB78IFY5RX488",
+      "MUTUELLE DE L ENSEIGNEMENT CATHOLIQUE DES COTES D ARMOR",
+      "FR"
+    ],
+    [
+      "9695009B4WDBF8VJ5I97",
+      "MUTUELLE DES PERSONNELS DU CENTRE HOSPITALIER D ALES",
+      "FR"
+    ],
+    [
+      "969500TJCNZLUBEQWJ97",
+      "MUTUELLE DU SUD",
+      "FR"
+    ],
+    [
+      "969500SNSA7Q8IWJK046",
+      "MUTUELLE DU PERSONNEL DE L EST REPUBLICAIN",
+      "FR"
+    ],
+    [
+      "969500CXM19ZBPYZXN02",
+      "MUTUELLE INTERDIOCESAINE RHONE ET LOIRE",
+      "FR"
+    ],
+    [
+      "969500WEUWV2PZRWH576",
+      "UMEN",
+      "FR"
+    ],
+    [
+      "9695003P8BTB8S0EOJ09",
+      "MUTUELLE DES AFFAIRES ETRANGERES ET EUROPEENNES",
+      "FR"
+    ],
+    [
+      "969500YXQCQLXA5U0M97",
+      "SOCIETE MUTUALISTE DES ETUDIANTS DE LA REGION PARISIENNE",
+      "FR"
+    ],
+    [
+      "969500RK2IWJ8JDTVG38",
+      "MUTUELLE SAINT MARTIN",
+      "FR"
+    ],
+    [
+      "969500UW4VK51NXSEG80",
+      "MUTUELLE SANTE",
+      "FR"
+    ],
+    [
+      "969500VQ5BKWU86ZLU18",
+      "M COMME MUTUELLE",
+      "FR"
+    ],
+    [
+      "969500DAX8KSXIN0O888",
+      "MUTUELLE DE L ILE DE LA CITE",
+      "FR"
+    ],
+    [
+      "96950030V75GG9VQ4T79",
+      "MUTUELLE D ASSURANCE DES ARMEES",
+      "FR"
+    ],
+    [
+      "969500C957R2BVBRGL15",
+      "SOCIETE MUTUALISTE DES AUTEURS COMPOSITEURS ET EDITEURS DE MUSIQUE",
+      "FR"
+    ],
+    [
+      "969500JHT69G7JP29C52",
+      "GROUPE FRANCE MUTUELLE",
+      "FR"
+    ],
+    [
+      "969500NVGY1C4HDAOL44",
+      "MUTUELLE NATIONALE DES FONCTIONNAIRES DES COLLECTIVITES TERRITORIALES",
+      "FR"
+    ],
+    [
+      "969500W5UBZ5SC0N2U44",
+      "MUTUELLE DES HOPITAUX DE LA VIENNE",
+      "FR"
+    ],
+    [
+      "96950040R3DD80EW7T02",
+      "UNITE FRATERNELLE DES REGIONS",
+      "FR"
+    ],
+    [
+      "969500ZXBEH7D0W1O159",
+      "SOCIETE MUTUALISTE GENERALE DE PREVOYANCE",
+      "FR"
+    ],
+    [
+      "9695005A47TAX9NBXZ41",
+      "MUTUELLE DU PERSONNEL DE L AGENCE FRANCE PRESSE - AFP",
+      "FR"
+    ],
+    [
+      "9695005712WHLV48XY11",
+      "CAISSE DE SECOURS STAUBLI FAVERGES",
+      "FR"
+    ],
+    [
+      "969500ZAILM8EB9S8C77",
+      "AVENIR SANTE",
+      "FR"
+    ],
+    [
+      "969500K4P3JT9TIX7W09",
+      "SOCIETE MUTUALISTE D ENTREPRISE KSB, BERRY FONDERIE, NEUVY MOTORS & ESPA",
+      "FR"
+    ],
+    [
+      "969500A5U4H42VBAD286",
+      "MUTUELLE DU PERSONNEL SALARIE OU RETRAITE DE COOP ATLANTIQUE",
+      "FR"
+    ],
+    [
+      "969500S1ANVFJ3WU0S22",
+      "MUTUELLE VALEO",
+      "FR"
+    ],
+    [
+      "969500HSYD55TM6XKH18",
+      "MUTUELLE INTERENTREPRISES ERAM",
+      "FR"
+    ],
+    [
+      "969500R4ZRY8SYOWEG33",
+      "MUTUELLE DES ETUDIANTS DE PROVENCE",
+      "FR"
+    ],
+    [
+      "9695008BMJRRRHAYOW42",
+      "COMPAGNIE EUROPEENNE DE GARANTIES ET CAUTIONS",
+      "FR"
+    ],
+    [
+      "9695003CYE55GAK9MH78",
+      "SOCIETE MUTUALISTE DES ETUDIANTS DE LA REGION ANTILLES GUYANE",
+      "FR"
+    ],
+    [
+      "969500D12GEL1W6MML28",
+      "MUTUELLE LOIRE FOREZ",
+      "FR"
+    ],
+    [
+      "969500SZBCGGME788O10",
+      "MUTUELLE DE PREVOYANCE ET DE L HABITAT DE LA REUNION",
+      "FR"
+    ],
+    [
+      "969500HR38IM5LB09591",
+      "GROUPE DES ASSURANCES MUTUELLES DE L EST",
+      "FR"
+    ],
+    [
+      "969500OVZZTXBQ9PD312",
+      "525EME MUTUELLE D ENTREPRISES",
+      "FR"
+    ],
+    [
+      "969500AMOACX8439S097",
+      "SOLIDARITE MUTUALISTE DE L ASSOCIATION DES TRAVAILLEURS INDEPENDANTS ET SALARIES DE FRANCE",
+      "FR"
+    ],
+    [
+      "9695002SOHIYV1ULXK56",
+      "MUTUELLE DES PAYS DE VILAINE",
+      "FR"
+    ],
+    [
+      "9695004K0WNZNEOU7414",
+      "BANQUE POPULAIRE MUTUALITE",
+      "FR"
+    ],
+    [
+      "969500Y9BSSQ6765IB71",
+      "MUTUELLE DES PERSONNELS MARITIMES",
+      "FR"
+    ],
+    [
+      "969500LE5MW3LJ6RSM03",
+      "SOLIMUT MUTUELLE PERSONNELS ORGANISMES SOCIAUX",
+      "FR"
+    ],
+    [
+      "969500DZDRM3UWGBSB38",
+      "SOCIETE MUTUALISTE INTERENTREPRISES DU PERSONNEL DES ORGANISMES SOCIAUX DU LOT",
+      "FR"
+    ],
+    [
+      "9695002N762IIUXGD178",
+      "UNION DE REASSURANCE MUTUALIA",
+      "FR"
+    ],
+    [
+      "9695001TP526QCJOY582",
+      "SOCIETE MUTUALISTE DU SALEVE",
+      "FR"
+    ],
+    [
+      "969500GU01LOBTSM5F14",
+      "SOCIETE MUTUALISTE MUTACOP",
+      "FR"
+    ],
+    [
+      "969500VYBVYZUWLQ4W25",
+      "LA MUTUELLE DE BAGNEAUX",
+      "FR"
+    ],
+    [
+      "9695001Z3Y4G7TLXH077",
+      "MUTUELLE KEOLIS RENNES",
+      "FR"
+    ],
+    [
+      "969500IUMJIRXDSKBW36",
+      "MUTUELLE D ASSURANCE SOLIDAIRE",
+      "FR"
+    ],
+    [
+      "969500T9GO1PV5VRZS64",
+      "GROUPEMENT DES PROPRIETAIRES NAVIGANTS DU PORT D ETAPLES",
+      "FR"
+    ],
+    [
+      "9695006Y4I3C0E3J2M89",
+      "MUTUELLE MEDICO-CHIRURGICALE",
+      "FR"
+    ],
+    [
+      "9695004CR4LV4C8XBU83",
+      "LES MUTUELLES LIGERIENNES",
+      "FR"
+    ],
+    [
+      "969500LY5H9C77T1D420",
+      "SURAVENIR ASSURANCES",
+      "FR"
+    ],
+    [
+      "969500QPFPSQ2NP5N926",
+      "MUTEX",
+      "FR"
+    ],
+    [
+      "969500ATSJ612RTKX773",
+      "MUTUELLE GENERALE DE L ECONOMIE, DES FINANCES ET DE L INDUSTRIE",
+      "FR"
+    ],
+    [
+      "969500E2S6J0WUIUTL56",
+      "CAISSE MUTUELLE DE PREVOYANCE DU PERSONNEL DES COLLECTIVITES TERRITORIALES DE LA HAUTE SAVOIE",
+      "FR"
+    ],
+    [
+      "95980084CSRTER6E1E21",
+      "MUTUA NACIONAL DE INGENIEROS TÉCNICOS DE PREVISIÓN SOCIAL A PRIMA FIJA , MUTUALIDAD DE PREVISION SOCIAL",
+      "ES"
+    ],
+    [
+      "9695002RPQWOQ7HVFQ23",
+      "IMHOTEP ASSURANCES",
+      "FR"
+    ],
+    [
+      "549300DWWK05FSVX2K03",
+      "Дженерали Животозастраховане АД",
+      "BG"
+    ],
+    [
+      "959800D3S2N6PBN7P674",
+      "HELLO INSURANCE GROUP, COMPAÑÍA DE SEGUROS, S.A.",
+      "ES"
+    ],
+    [
+      "9695001GU2AOPPIG6N43",
+      "ACHEEL SA",
+      "FR"
+    ],
+    [
+      "969500QB9LE3JAYQ5666",
+      "GROUPE SEB RE",
+      "FR"
+    ],
+    [
+      "98450067D9TE013D8666",
+      "Hedvig Försäkrings AB",
+      "SE"
+    ],
+    [
+      "5493002L41FNHH48VP94",
+      "Satrex|Satrex",
+      "BE"
+    ],
+    [
+      "213800Q9CZP7RI1E5Q63",
+      "Maatschappij voor Brandherverzekering|Maatschappij voor Brandherverzekering",
+      "BE"
+    ],
+    [
+      "969500BRG778SFPSVQ42",
+      "FDJ Ré",
+      "FR"
+    ]
+  ],
+  "r4_gleif_inactive": [
+    [
+      "959800UW7VSH53AATP60",
+      "MONTEPIO DE CONDUCTORES DE AUTOMOVILES DE VALLADOLID Y PROVINCIA, MUTUALIDAD DE PREVISION SOCIAL",
+      "ES",
+      "RETIRED"
+    ],
+    [
+      "959800MQ1WA0CPQ2XQ52",
+      "PREVISION MUTUA DE APAREJADORES Y ARQUITECTOS TECNICOS MUTUALIDAD DE PREVISION SOCIAL A PRIMA FIJA",
+      "ES",
+      "RETIRED"
+    ],
+    [
+      "959800JRL7DF07XU5Y67",
+      "MUTUALIDAD GENERAL DE PREVISION SOCIAL DE LOS GESTORES ADMINISTRATIVOS",
+      "ES",
+      "RETIRED"
+    ],
+    [
+      "95980020140005376693",
+      "CASER MEDITERRÁNEO SEGUROS GENERALES, S.A.",
+      "ES",
+      "RETIRED"
+    ],
+    [
+      "95980020140005782153",
+      "CAJA ESPAÑA VIDA, COMPAÑIA DE SEGUROS Y REASEGUROS SOCIEDAD ANONIMA",
+      "ES",
+      "RETIRED"
+    ],
+    [
+      "959800UCDCH8WJFRXT03",
+      "CAI Seguros Generales de Seguros y Reaseguros S.A.",
+      "ES",
+      "RETIRED"
+    ],
+    [
+      "95980020140005624237",
+      "MM HOGAR SOCIEDAD ANÓNIMA UNIPERSONAL DE SEGUROS Y REASEGUROS",
+      "ES",
+      "RETIRED"
+    ],
+    [
+      "097900BFCD0000009725",
+      "ERGO Poisťovňa, a. s.",
+      "SK",
+      "RETIRED"
+    ],
+    [
+      "529900I3PI8FIYICAR94",
+      "ADRIATIC SLOVENICA Zavarovalna družba d.d.",
+      "SI",
+      "RETIRED"
+    ],
+    [
+      "4851000020C6NKQDP691",
+      "Coface PKZ zavarovalnica d.d.",
+      "SI",
+      "RETIRED"
+    ],
+    [
+      "4851000094PJJQ1E0T23",
+      "TRIGLAV, Zdravstvena zavarovalnica, d.d.",
+      "SI",
+      "RETIRED"
+    ],
+    [
+      "8156005E316B69E09270",
+      "BIM VITA S.P.A.",
+      "IT",
+      "RETIRED"
+    ],
+    [
+      "5493000LIFTRRCXL6295",
+      "Oxie-Skytts Djurförsäkring",
+      "SE",
+      "RETIRED"
+    ],
+    [
+      "549300SMTEKGG122IE33",
+      "SABO Försäkrings AB (publ)",
+      "SE",
+      "RETIRED"
+    ],
+    [
+      "213800ENULDY38PP3M36",
+      "Forsikrings-Aktieselskabet ALKA Liv II",
+      "DK",
+      "RETIRED"
+    ],
+    [
+      "529900LXCOC8OAR3B441",
+      "BANKPENSION Pensionskasse for finansansatte",
+      "DK",
+      "RETIRED"
+    ],
+    [
+      "54930091X2DN4P403I61",
+      "FISKEFARTØJSFORSIKRINGEN LÆSØ. GENSIDIGT SELSKAB",
+      "DK",
+      "RETIRED"
+    ],
+    [
+      "549300I1N64ZFOT83R76",
+      "Hvide Sande gensidige Skibsforsikringsforening",
+      "DK",
+      "RETIRED"
+    ],
+    [
+      "5967007LIEEXZXA05K56",
+      "SURNADAL, HEIM OG TINGVOLL GJENSIDIG BRANNKASSE",
+      "NO",
+      "RETIRED"
+    ],
+    [
+      "5967007LIEEXZX9ZDS98",
+      "OPPDAL-RENNEBU GJENSIDIG BRANNKASSE",
+      "NO",
+      "RETIRED"
+    ],
+    [
+      "5967007LIEEXZX849444",
+      "STOREBRAND HELSEFORSIKRING AS",
+      "NO",
+      "RETIRED"
+    ],
+    [
+      "529900W7KRCIX9TUMP51",
+      "Barmenia Lebensversicherung a.G.",
+      "DE",
+      "RETIRED"
+    ],
+    [
+      "529900WY879RDTUH2615",
+      "Victoria Lebensversicherung Aktiengesellschaft",
+      "DE",
+      "RETIRED"
+    ],
+    [
+      "529900WXTER9VT9J1H88",
+      "LPV Versicherung AG",
+      "DE",
+      "RETIRED"
+    ],
+    [
+      "529900IG4UYZZIMT6U44",
+      "D.A.S. Deutscher Automobil Schutz Allgemeine Rechtsschutz-Versicherungs-Aktiengesellschaft",
+      "DE",
+      "RETIRED"
+    ],
+    [
+      "391200L3PRTUXR3NPM65",
+      "St. Martinus Priesterverein der Diözese Rottenburg-Stuttgart- Kranken- und Sterbekasse (KSK) - Versicherungsverein auf Gegenseitigkeit (VVaG) i.L.",
+      "DE",
+      "RETIRED"
+    ],
+    [
+      "52990037Q5MUT33YM978",
+      "VHV Lebensversicherung AG",
+      "DE",
+      "RETIRED"
+    ],
+    [
+      "3912006CHI0PF4QZGM61",
+      "MSIG Insurance Europe AG",
+      "DE",
+      "RETIRED"
+    ],
+    [
+      "391200AVWNVKH0CMD111",
+      "Landesschadenhilfe Versicherung VaG",
+      "DE",
+      "RETIRED"
+    ],
+    [
+      "5299006USU3NVSRZ5553",
+      "Süddeutsche Lebensversicherung a.G.",
+      "DE",
+      "RETIRED"
+    ],
+    [
+      "529900RQOXKD5V1K2G68",
+      "R+V Direktversicherung AG",
+      "DE",
+      "RETIRED"
+    ],
+    [
+      "74780040H4PRK32SPS20",
+      "ЕВРОИНС - ЗДРАВНО ОСИГУРЯВАНЕ ЗЕАД ЕАД",
+      "BG",
+      "RETIRED"
+    ],
+    [
+      "6354008EX9VDP2J4ZP77",
+      "ОББ-Животозастраховане ЕАД",
+      "BG",
+      "RETIRED"
+    ],
+    [
+      "78FCH6QDA11I4LCZO102",
+      "Keskinäinen Henkivakuutusyhtiö Suomi",
+      "FI",
+      "RETIRED"
+    ],
+    [
+      "549300T84QU3776WH056",
+      "Aurum Sijoitusvakuutus Oy",
+      "FI",
+      "RETIRED"
+    ],
+    [
+      "549300DEJMO2XDX7R109",
+      "OVY Vakuutus Oy",
+      "FI",
+      "RETIRED"
+    ],
+    [
+      "743700WIO30K42O8DC67",
+      "SHB Liv Försäkringsaktiebolag",
+      "FI",
+      "RETIRED"
+    ],
+    [
+      "5493003SPEWN841SWG39",
+      "AEGON Levensverzekering N.V.",
+      "NL",
+      "RETIRED"
+    ],
+    [
+      "5493006GVWGY4NK3J797",
+      "SEGUROS DE VIDA Y PENSIONES ANTARES, S.A.",
+      "ES",
+      "RETIRED"
+    ],
+    [
+      "635400MPMJYOS2NWZE52",
+      "CBL Insurance Europe dac (under administration)",
+      "IE",
+      "RETIRED"
+    ],
+    [
+      "969500TLX07J8P492J39",
+      "SOCIETE MUTUALISTE DU PERSONNEL ACTIF ET RETRAITE DE LA MARQUE",
+      "FR",
+      "RETIRED"
+    ],
+    [
+      "549300KCPG3666EE4546",
+      "SCOR GLOBAL REINSURANCE France",
+      "FR",
+      "RETIRED"
+    ]
+  ],
+  "r5_shared_leis_diff_names": {
+    "00000000000000000000": [
+      "European Risk Insurance Company ehf.",
+      "INTER Krankenversicherung aG"
+    ],
+    "2138002WE79XZSYJB750": [
+      "AEGON Magyarország Általános Biztosító Zártkörűen Működő Részvénytársaság",
+      "Aegon Magyarország Általános Biztosító Zrt. Csehországi Fióktelepe",
+      "Aegon Magyarország Általános Biztosító Zrt. Lengyelországi Fióktelepe",
+      "Aegon Magyarország Általános Biztosító Zrt. Szlovákiai Fióktelepe",
+      "Alfa Vienna Insurance Group Biztosító Zrt."
+    ],
+    "21380087SZ854SSNYJ36": [
+      "INTERNATIONAL GENERAL INSURANCE COMPANY (EUROPE) LTD",
+      "INTERNATIONAL GENERAL INSURANCE COMPANY (EUROPE) SE"
+    ],
+    "213800A3IY9EEGLSDG36": [
+      "GRAWE INSURANCE COMPANY (CYPRUS) LTD",
+      "Trust International Insurance Company(Cyprus) Limited"
+    ],
+    "213800HD17UKYN8WOQ74": [
+      "BNP Paribas Cardif Försäkring AB",
+      "BNP Paribas Cardif Försäkring AB Filial i Danmark",
+      "BNP Paribas Cardif Försäkring AB Filial i Norge",
+      "BNP Paribas Cardif Livförsäkring AB Filial i Danmark",
+      "BNP Paribas Cardif Livförsäkring AB Filial i Norge"
+    ],
+    "213800KL7RVEKAJHQO02": [
+      "ARNOLD CLARK (MALTA) LIMITED",
+      "ARNOLD CLARK LIFE INSURANCE (MALTA) LIMITED"
+    ],
+    "213800LJXKNQGWI7T748": [
+      "NN Biztosító Zrt. Bulgáriai Fióktelepe",
+      "NN Biztosító Zártkörűen Működő Részvénytársaság"
+    ],
+    "213800QMSSWIO7459N54": [
+      "TRANSRE EUROPE S.A., MUNICH BRANCH",
+      "TRANSRE EUROPE S.A., PARIS BRANCH",
+      "TransRe Europe S.E."
+    ],
+    "213800SVWPI61VFM1173": [
+      "Euro Accident Liv, filial af Euro",
+      "Euro Accident Liv, filial i Norge",
+      "Euro Accident Livförsäkring AB"
+    ],
+    "2221007OJZ82DCRWF207": [
+      "iptiQ EMEA P&C S.A.",
+      "iptiQ EMEA P&C S.A., sucursal en España"
+    ],
+    "222100GIQKRF94HI8657": [
+      "USAA EU Designated Activity Company",
+      "USAA S.A."
+    ],
+    "31570010000000044812": [
+      "AXA pojišťovna a.s.",
+      "AXA pojišťovna a.s., pobočka poisťovne z iného členského štátu"
+    ],
+    "31570010000000044909": [
+      "AXA životní pojišťovna a.s.",
+      "AXA životní pojišťovna a.s., pobočka poisťovne z iného členského štátu"
+    ],
+    "31570010000000054609": [
+      "Generali Poisťovňa, pobočka poisťovňe z iného členského štátu",
+      "Generali Česká pojišťovna a.s.",
+      "Česká pojišťovna Spółka Akcyjna Oddział w Polsce"
+    ],
+    "31570010000000066734": [
+      "VIG RE zajišťovna, a.s.",
+      "VIG RE zajišťovna, a.s. - French branch",
+      "VIG RE zajišťovna, a.s., Niederlassung Deutschland"
+    ],
+    "31570053VJ0RMQ3JJK93": [
+      "Pobočka UNIQA pojišťovna, a.s., pobočka poisťovně z iného členského státu",
+      "UNIQA pojišťovna, a.s."
+    ],
+    "315700I2O427N6NB2Q85": [
+      "Credendo - Short-Term EU Risks úvěrová pojišťovna, a. s., Spólka Akcyjna Oddzial w Polsce",
+      "Credendo - Short-Term EU Risks úvěrová pojišťovna, a.s.",
+      "Credendo - Short-Term Eu Risks úvěrová pojišťovna, a. s., pobočka poisťovne z iného členského štátu"
+    ],
+    "315700S44MYP53HP8S79": [
+      "Direct pojišťovna, a.s.",
+      "Direct pojišťovna, a.s., spolka akcyjna oddzial w Polsce"
+    ],
+    "3912002W9OWWAC72PH07": [
+      "SCHWARZMEER UND OSTSEE Versicherungs-Aktiengesellschaft SOVAG",
+      "SOVAG Aktiengesellschaft"
+    ],
+    "4GQQ1LC5PZ0OUD5AO806": [
+      "Sirius International Försäkringsaktie- bolag (publ) filial i Belgien",
+      "Sirius International Försäkringsaktie- bolag (publ) filial i Danmark",
+      "Sirius International Försäkringsaktiebolag (publ)",
+      "Sirius International Försäkringsaktiebolag (publ) Filial i Belgien",
+      "Sirius International Försäkringsaktiebolag (publ) Filial i Danmark"
+    ],
+    "5299000AA47UHOUCN455": [
+      "SCHWEIZERISCHE HAGEL-VERSICHERUNGS-GESELLSHAFT - SOCIETA SVIZZERA DI ASSICURAZIONE CONTRO LA GRANDINE - SOCIETA COOPERATIVA",
+      "SOCIETE SUISSE D ASSURANCE CONTRE LA GRELE"
+    ],
+    "5299004VW9WNRHTLF050": [
+      "HDI Global Specialty SE",
+      "International Insurance Company of Hannover SE"
+    ],
+    "5299005OWMBTSNKNP092": [
+      "Groupama Biztosító Zártkörűen Működő Rt.",
+      "Groupama Biztosító Zártkörűen Működő Részvénytársaság Zavarovalnica, Podružnica",
+      "Groupama Garancia Biztosító Zrt. Szlovákiai Fióktelepe",
+      "Groupama osiguranje, društvo za osiguranje, d.d. - Podružnica Hrvatska"
+    ],
+    "52990070XNQZW7PGED07": [
+      "ASPECTA Assurance International Aktiengesellschaft",
+      "YOUPLUS Insurance International AG"
+    ],
+    "5299007FNTNU3NBQPQ17": [
+      "HELVETIA COMPAGNIE SUISSE D ASSURANCES",
+      "Helvetia Schweizerische Versicherungsgesellschaft AG Direktion für Deutschland"
+    ],
+    "5299009YUBN0PEQKNC45": [
+      "GENERTEL Biztosító Zártkörűen működő Rt.",
+      "Genertel Biztosító Zrt. Szlovákiai Fióktelepe"
+    ],
+    "529900FQ7DWNLPNRN517": [
+      "Lippische Landes-Brandversicherungsanstalt",
+      "Lippische Landesbrandversicherung AG"
+    ],
+    "529900GPC0BEXNKO6N32": [
+      "ERGO Reiseversicherung AG",
+      "Europäische Reiseversicherung Aktiengesellschaft"
+    ],
+    "529900IJSHSLTES6PQ72": [
+      "Allianz Hungária Biztosító Zrt Szlovénai Fióktelepe",
+      "Allianz Hungária Biztosító Zártkörűen Működő Részvénytársaság"
+    ],
+    "529900JIV2O9HEPWIN77": [
+      "Solid Försäkringsaktiebolag",
+      "Solid Försäkringsaktiebolag Filial i Finland",
+      "Solid Försäkringsaktiebolag Filial i Norge"
+    ],
+    "529900LUHDJKBFWOBC70": [
+      "Barmenia Krankenversicherung a.G.",
+      "Barmenia Versicherungen a.G."
+    ],
+    "529900RQYV6XL9NO4W20": [
+      "ROLAND Rechtsschutz-Versicherungs-AG",
+      "ROLAND Rechtsschutz-Versicherungs-Aktiengesellschaft"
+    ],
+    "529900TJHKJZNN21XT30": [
+      "Accredited INSURANCE (Europe) LIMITED",
+      "CLARIANT Insurance Aktiengesellschaft",
+      "R&Q INSURANCE (EUROPE) LIMITED"
+    ],
+    "529900XCDP67EU703X29": [
+      "ERGO Forsikring A/S",
+      "Europæiske Rejseforsikring A/S"
+    ],
+    "549300073ZZ8GVKW7N65": [
+      "Medicover Försäkrings AB (publ)",
+      "Medicover Försäkrings AB (publ) Filial i Polen",
+      "Medicover Försäkrings AB (publ) Filial i Rumänien",
+      "Medicover Försäkrings AB (publ) Filial i Ungern",
+      "Medicover Försäkrings AB (publ) filial i Polen",
+      "Medicover Försäkrings AB (publ) filial i Rumänien",
+      "Medicover Försäkrings AB (publ) filial i Ungern"
+    ],
+    "5493000HIT9G4VHYFR25": [
+      "If Skadeförsäkring AB (publ)",
+      "If Skadeförsäkring AB (publ) Danmark filial i Danmark",
+      "If Skadeförsäkring AB (publ) Filial i Danmark",
+      "If Skadeförsäkring AB (publ) Filial i Estland",
+      "If Skadeförsäkring AB (publ) Filial i Finland",
+      "If Skadeförsäkring AB (publ) Filial i Frankrike",
+      "If Skadeförsäkring AB (publ) Filial i Lettland",
+      "If Skadeförsäkring AB (publ) Filial i Litauen",
+      "If Skadeförsäkring AB (publ) Filial i Nederländerna",
+      "If Skadeförsäkring AB (publ) Filial i Norge",
+      "If Skadeförsäkring AB (publ) Filial i Tyskland",
+      "If Skadeförsäkring AB (publ) Finland filial i Finland",
+      "If Skadeförsäkring AB (publ) Frankrike filial i Frankrike",
+      "If Skadeförsäkring AB (publ) Lettland IF P&C Insurance Ltd branch in Latvia",
+      "If Skadeförsäkring AB (publ) Nederländer filial i Nederländerna",
+      "If Skadeförsäkring AB (publ) Norge filial i Norge",
+      "If Skadeförsäkring AB (publ)Tyskland filial i Tyskland"
+    ],
+    "54930056G44RPG2J3372": [
+      "Nordic Guarantee Försäkringsaktiebolag",
+      "Nordic Guarantee Försäkringsaktiebolag Dansk filial",
+      "Nordic Guarantee Försäkringsaktiebolag Filial i Danmark",
+      "Nordic Guarantee Försäkringsaktiebolag Filial i Finland",
+      "Nordic Guarantee Försäkringsaktiebolag Filial i Norge",
+      "Nordic Guarantee Försäkringsaktiebolag Filial i Spanien",
+      "Nordic Guarantee Försäkringsaktiebolag Finsk filial",
+      "Nordic Guarantee Försäkringsaktiebolag Norsk filial"
+    ],
+    "5493006D8G55YM441622": [
+      "Allianz Hrvatska d.d.",
+      "Allianz Hrvatska d.d., Zagreb, Allianz Slovenija, zavarovalna podružnica"
+    ],
+    "5493008DQORAEY0ENG84": [
+      "Anticimex Försäkringar AB",
+      "Anticimex Försäkringar AB filial i Finland",
+      "Anticimex Försäkringar AB filial i Norge",
+      "Anticimex Försäkringar AB filial i Spanien"
+    ],
+    "549300CGCHTYQ1Z4V333": [
+      "Companhia de Seguros Tranquilidade, S.A.",
+      "Generali Seguros, S.A."
+    ],
+    "549300CJ7LW6QSGIL444": [
+      "SWISS RE EUROPE S.A.",
+      "Swiss Re Europe S.A., Filial of Swiss Re Europe S.",
+      "Swiss Re Europe S.A., Nederlandse Vestiging",
+      "Swiss Re Europe S.A., Niederlassung Deutschland",
+      "Swiss Re Europe S.A., Rappresentanza per lItalia",
+      "Swiss Re Europe S.A., Slovakia Branch",
+      "Swiss Re Europe S.A., Succursale de Paris",
+      "Swiss Re Europe S.A., Sucursal en Espana"
+    ],
+    "549300DVVBP5RUR81I12": [
+      "IF Livförsäkring AB",
+      "IF Livförsäkring AB Filial i Danmark",
+      "IF Livförsäkring AB Filial i Finland",
+      "IF Livförsäkring AB Filial i Norge",
+      "IF Livförsäkring AB, filial i Norge",
+      "If Livförsäkring AB, filial i Danmark"
+    ],
+    "549300F4W0LX6O6J2Y44": [
+      "Återförsäkringsaktiebolaget Stockholm",
+      "Återförsäkringsaktiebolaget Stockholm Filial i Tyskland",
+      "Återförsäkringsaktiebolaget Stockholm Stockholm Reinsurance Company Filial i Tyskland"
+    ],
+    "549300FOASW7JFUQV048": [
+      "Länsförsäkringar International (filial i Lettland) Försäkringsaktiebolag (publ)",
+      "Länsförsäkringar International (filial i Litauen) Försäkringsaktiebolag (publ)",
+      "Länsförsäkringar International Försäkringsaktiebolag (publ) Filial i Lettland",
+      "Länsförsäkringar International Försäkringsaktiebolag (publ) Filial i Litauen",
+      "Länsförsäkringar Sak Försäkringsaktiebolag (publ)"
+    ],
+    "549300KCPG3666EE4546": [
+      "SCOR GLOBAL REINSURANCE France",
+      "SCOR Global Reinsurance Ireland Designated Activity Company"
+    ],
+    "549300NKKEOXL1K82T73": [
+      "Försäkringsaktiebolaget Skandia (publ)",
+      "Försäkringsaktiebolaget Skandia,Danmark filal i Danmark (publ)"
+    ],
+    "549300ODC1UIUYG6ZW52": [
+      "GENERALI ESPAÑA DE SEGUROS Y REASEGUROS, S.A.",
+      "GENERALI SEGUROS Y REASEGUROS S.A."
+    ],
+    "549300OUDQW3C16XVT44": [
+      "Telia Försäkring AB",
+      "Telia Försäkring AB, filial Estland",
+      "Telia Försäkring AB, filial Lettland"
+    ],
+    "549300RLIK8ZJSRA1W02": [
+      "LMG Försäkrings AB",
+      "LMG Försäkrings AB Filial i Polen",
+      "LMG Försäkrings AB, Filial i Polen"
+    ],
+    "549300Y3H3YIK6S2H942": [
+      "Försäkringsaktiebolaget Agria (publ)",
+      "Försäkringsaktiebolaget Agria Filial i Danmark",
+      "Försäkringsaktiebolaget Agria Filial i Finland",
+      "Försäkringsaktiebolaget Agria Filial i Frankrike",
+      "Försäkringsaktiebolaget Agria Filial i Irland",
+      "Försäkringsaktiebolaget Agria Filial i Norge",
+      "Försäkringsaktiebolaget Agria Filial i Tyskland",
+      "Försäkringsaktiebolaget Agria, filial i Danmark",
+      "Försäkringsaktiebolaget Agria, filial i Finland",
+      "Försäkringsaktiebolaget Agria, filial i Norge"
+    ],
+    "549300YPYVCF0JNAQ062": [
+      "Sveriges Ångfartygs Assurans Förening",
+      "Sveriges Ångfartygs Assurans Förening Filial i Norge",
+      "Sveriges Ångfartygs Assurans Förening filial i Norge"
+    ],
+    "549300ZREX5LE3QJV792": [
+      "Handelsbanken Liv Försäkringsaktiebolag",
+      "Handelsbanken Liv Försäkringsaktiebolag Filial i Finland",
+      "Handelsbanken Liv Försäkringsaktiebolag Filial i Norge",
+      "Handelsbanken Liv Försäkringsaktiebolag filial i Finland",
+      "Handelsbanken Liv Försäkringsaktiebolag filial i Norge"
+    ],
+    "74780000904H51PVL664": [
+      "ADRIATIC OSIGURANJE d.d.",
+      "ADRIATIC OSIGURANJE d.d. podružnica"
+    ],
+    "74780000M0GHQ1VXJU20": [
+      "CROATIA osiguranje d.d.",
+      "CROATIA osiguranje d.d. podružnica Ljubljana"
+    ],
+    "9598002D114YGE8ZGT76": [
+      "DIVINA PASTORA SEGUROS, MUTUA DE SEGUROS",
+      "MUTUALIDAD GENERAL DE PREVISION DEL HOGAR DIVINA PASTORA, MUTUALIDAD DE PREVISION SOCIAL A PRIMA FIJA"
+    ],
+    "9695007AC8Q2X70BLL23": [
+      "COMPAGNIE FRANCAISE D ASSURANCE POUR LE COMMERCE EXTERIEUR",
+      "COMPAGNIE FRANCAISE D ASSURANCE POUR LE COMMERCE EXTERIEUR (COFACE)"
+    ]
+  },
+  "r5_hard_collapse": {
+    "213800KL7RVEKAJHQO02": [
+      "ARNOLD CLARK (MALTA) LIMITED",
+      "ARNOLD CLARK LIFE INSURANCE (MALTA) LIMITED"
+    ],
+    "529900FQ7DWNLPNRN517": [
+      "Lippische Landes-Brandversicherungsanstalt",
+      "Lippische Landesbrandversicherung AG"
+    ],
+    "549300KCPG3666EE4546": [
+      "SCOR GLOBAL REINSURANCE France",
+      "SCOR Global Reinsurance Ireland Designated Activity Company"
+    ]
+  },
+  "r6_zombie_open_operations": 283,
+  "r7_name_mismatches_sample": [
+    [
+      "213800KY94NQYH4IZU83",
+      "MAPFRE MIDDLESEA P.L.C.",
+      "MAPFRE MALTA P.L.C."
+    ],
+    [
+      "5299005OWMBTSNKNP092",
+      "Groupama Biztosító Zártkörűen Működő Rt.",
+      "Groupama Biztosító Zártkörűen Működő Részvénytársaság"
+    ],
+    [
+      "5299009YUBN0PEQKNC45",
+      "GENERTEL Biztosító Zártkörűen működő Rt.",
+      "Genertel Biztosító Zrt."
+    ],
+    [
+      "9598007S1Q7FKMLC0D44",
+      "ALIANZA ESPAÑOLA S.A. DE SEGUROS LA",
+      "LA ALIANZA ESPAÑOLA SOCIEDAD ANONIMA DE SEGUROS"
+    ],
+    [
+      "959800JQA0H1B14GUA38",
+      "ESPAÑA, S.A., CIA. NACIONAL DE SEGUROS.",
+      "ESPAÑA SA COMPAÑIA NACIONAL DE SEGUROS"
+    ],
+    [
+      "9598003SBKPT75SKWY47",
+      "OCASO, S.A., COMPAÑIA DE SEGUROS Y REASEGUROS.",
+      "OCASO SOCIEDAD ANONIMA COMPAÑIA DE SEGUROS Y REASEGUROS"
+    ],
+    [
+      "95980020140005025553",
+      "SEGURCAIXA ADESLAS, SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS",
+      "SEGURCAIXA ADESLAS SA DE SEGUROS Y REASEGUROS"
+    ],
+    [
+      "959800X7PUL6357GQW21",
+      "PATRIA HISPANA, S.A. DE SEGUROS Y REASEGUROS",
+      "PATRIA HISPANA SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS"
+    ],
+    [
+      "9598001C5TLZ6DB9YR61",
+      "PREVENTIVA, CIA. DE SEGUROS Y REASEGUROS, S.A.",
+      "PREVENTIVA COMPAÑIA DE SEGUROS Y REASEGUROS SA"
+    ],
+    [
+      "959800G9H6YP702T9K38",
+      "LA UNION ALCOYANA, S.A. DE SEGUROS Y REASEGUROS.",
+      "LA UNION ALCOYANA SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS"
+    ],
+    [
+      "529900JZWWCJKQ1GTT02",
+      "FWU Life Insurance Austria AG",
+      "austrion Life Insurance AG"
+    ],
+    [
+      "95980041K6Z0LE4DNZ73",
+      "MUTUA ARROCERA DE SEGUROS",
+      "MUTUA ARROCERA, MUTUA DE SEGUROS"
+    ],
+    [
+      "959800LWDTC5CATARP57",
+      "SOCIEDAD DE SEGUROS MUTUOS CONTRA INCENDIOS DE EDIFICIOS DE VALENCIA, MUTUA A FIJA",
+      "SOCIEDAD DE SEGUROS MUTUOS CONTRA INCENDIOS DE EDIFICIOS DE VALENCIA MUTUA PRIMA FIJA"
+    ],
+    [
+      "9598002VVT3S5BDCAT94",
+      "MUTUA DE ALAVA, SEGURO DE EDIFICIOS A PRIMA FIJA, MUTUA DE SEGUROS",
+      "MUTUA DE ALAVA SEGUROS DE EDIFICIOS A PRIMA FIJA MUTUA DE SEGUROS"
+    ],
+    [
+      "959800UW7VSH53AATP60",
+      "MONTEPIO DE CONDUCTORES DE AUTOMOVILES DE VALLADOLID Y PROVINCIA, MUTUALIDAD DE PREVISION SOCIAL",
+      "MONTEPIO DE CONDUCTORES DE VALLADOLID"
+    ],
+    [
+      "959800MQ1WA0CPQ2XQ52",
+      "PREVISION MUTUA DE APAREJADORES Y ARQUITECTOS TECNICOS MUTUALIDAD DE PREVISION SOCIAL A PRIMA FIJA",
+      "PREVISIÓN MUTUA DE APAREJADORES Y ARQUITECTOS TÉCNICOS, M.P.S."
+    ],
+    [
+      "9598002D114YGE8ZGT76",
+      "MUTUALIDAD GENERAL DE PREVISION DEL HOGAR DIVINA PASTORA, MUTUALIDAD DE PREVISION SOCIAL A PRIMA FIJA",
+      "DIVINA PASTORA SEGUROS MUTUA DE SEGUROS"
+    ],
+    [
+      "959800SD7FSKWFZ5BG18",
+      "MUTUALIDAD ESCOLAR Y FAMILIAR DE PREVISION SOCIAL",
+      "MUTALIDAD ESCOLAR Y FAMILIAR DE PREVISION SOCIAL"
+    ],
+    [
+      "9598002A5E1NG9EJ2H79",
+      "MUTUA DE PREVISION SOCIAL A PRIMA FIJA DEL PERSONAL DE RENAULT ESPAÑA, MUTUALIDAD DE PREVISIÓN SOCIAL",
+      "MUTUA DE PREVISION SOCIAL A PRIMA FIJA DEL PERSONAL DE RENAULT ESPAGNA"
+    ],
+    [
+      "95980020140006020191",
+      "MUTUAL MÉDICA, MUTUALIDAD DE PREVISION SOCIAL A PRIMA FIJA",
+      "MUTUAL MEDICA M.P.S. A PRIMA FIJA"
+    ],
+    [
+      "9598003MMXJNZZS7D544",
+      "CLINICUM SEGUROS, SOCIEDAD ANONIMA",
+      "CLINICUM SEGUROS S.A."
+    ],
+    [
+      "959800MTKTQ130ZQ7844",
+      "ASISTENCIA SANITARIA COLEGIAL, SOCIEDAD ANONIMA DE SEGUROS",
+      "ASISTENCIA SANITARIA COLEGIAL S.A. DE SEGUROS"
+    ],
+    [
+      "959800VP29N7HZJ1KD83",
+      "ONLYGAL SEGUROS Y REASEGUROS, SOCIEDAD ANÓNIMA",
+      "ONLYGAL SEGUROS Y REASEGURO S.A."
+    ],
+    [
+      "959800FRL38WHC6MSF94",
+      "IGUALATORIO MEDICO QUIRURGICO Y DE ESPECIALIDADES DE ASTURIAS, S.A. DE SEGUROS",
+      "IGUALATORIO MEDICO QUIRURGICO Y DE ESPECIALIDADES DE ASTURIAS SOCIEDAD ANONIMA DE SEGUROS"
+    ],
+    [
+      "959800Q0TB4YW3WZWX61",
+      "SALUS ASISTENCIA SANITARIA, S.A. DE SEGUROS",
+      "SALUS ASISTENCIA SANITARIA SOCIEDAD ANONIMA DE SEGUROS"
+    ],
+    [
+      "9598000XV29EQE8XZE52",
+      "ASISA, ASISTENCIA SANITARIA INTERPROVINCIAL DE SEGUROS, S.A.U.",
+      "ASISA ASISTENCIA SANITARIA INTERPROVINCIAL DE SEGUROS SOCIEDAD ANONIMA"
+    ],
+    [
+      "959800ZWWVLBYKM42V32",
+      "MERIDIANO, S.A., COMPAÑIA ESPAÑOLA DE SEGUROS",
+      "MERIDIANO SOCIEDAD ANONIMA COMPAÑIA ESPAÑOLA DE SEGUROS"
+    ],
+    [
+      "95980020140005571275",
+      "MAPFRE VIDA, S.A. DE SEGUROS Y REASEGUROS SOBRE LA VIDA HUMANA",
+      "MAPFRE VIDA SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS SOBRE LA VIDA HUMANA"
+    ],
+    [
+      "959800ZBF6JL2EMDFL97",
+      "COMPAÑIA DE SEGUROS IGUALATORIO MEDICO QUIRURGICO Y DE ESPECIALIDADES DE NAVARRA, SOCIEDAD ANONIMA",
+      "COMPAÑIA DE SEGUROS IGUALATORIO MEDICO QUIRURGICO Y DE ESPECIALIDADES DE NAVARRA S.A."
+    ],
+    [
+      "5493003B0IKU22G55E77",
+      "BBVASEGUROS, S.A., DE SEGUROS Y REASEGUROS",
+      "BBVASEGUROS SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS"
+    ],
+    [
+      "9598002W9QQANQBTYQ69",
+      "COMPAÑIA ESPAÑOLA DE SEGUROS DE CREDITO A LA EXPORTACION, S.A., COMPAÑIA DE SEGUROS Y REASEGUROS, SOCIEDAD MERCANTIL ESTATAL (CESCE)",
+      "COMPAÑIA ESPAÑOLA DE SEGUROS DE CREDITO A LA EXPORTACION SOCIEDAD ANONIMA COMPAÑIA DE SEGUROS Y REASEGUROS SOCIEDAD MERCANTIL ESTATAL"
+    ],
+    [
+      "95980020140005337796",
+      "VIDA-CAIXA, SOCIEDAD ANÓNIMA DE SEGUROS Y REASEGUROS",
+      "VIDA-CAIXA SA DE SEGUROS Y REASEGUROS"
+    ],
+    [
+      "95980020140005376693",
+      "CASER MEDITERRÁNEO SEGUROS GENERALES, S.A.",
+      "CASER MEDITERRANEO VIDA SA"
+    ],
+    [
+      "959800GMX7R2WN7KGT42",
+      "MAPFRE ASISTENCIA, COMPAÑIA INTERNACIONAL DE SEGUROS Y REASEGUROS, S.A.",
+      "MAPFRE ASISTENCIA COMPAÑIA INTERNACIONAL DE SEGUROS Y REASEGUROS SOCIEDAD ANONIMA"
+    ],
+    [
+      "5299003NVOZ58BDXCC38",
+      "ERGO VIDA SEGUROS Y REASEGUROS, SOCIEDAD ANONIMA",
+      "ERGO VIDA SEGUROS Y REASEGUROS S.A."
+    ],
+    [
+      "213800FP9RNTV6Z4YX30",
+      "AXA AURORA VIDA, S.A. DE SEGUROS Y REASEGUROS",
+      "AXA AURORA VIDA, SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS"
+    ],
+    [
+      "213800P7QU9BRRX4LI42",
+      "AXA SEGUROS GENERALES, S. A. DE SEGUROS Y REASEGUROS",
+      "AXA SEGUROS GENERALES SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS"
+    ],
+    [
+      "95980020140005782153",
+      "CAJA ESPAÑA VIDA, COMPAÑIA DE SEGUROS Y REASEGUROS SOCIEDAD ANONIMA",
+      "CAJA ESPAÑA VIDA, COMPAÑÍA DE SEGUROS Y REASEGUROS, S.A."
+    ],
+    [
+      "959800UC5X5MX2576D02",
+      "IGUALATORIO MEDICO QUIRURGICO, S.A. DE SEGUROS Y REASEGUROS",
+      "IGUALATORIO MEDICO QUIRURGICO SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS"
+    ],
+    [
+      "222100D85C4W50C1FK28",
+      "YOLE S.A.",
+      "YOLE, Société Luxembourgeoise de Réassurances"
+    ]
+  ]
+}

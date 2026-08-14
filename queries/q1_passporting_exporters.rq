@@ -1,0 +1,10 @@
+# Which home countries export the most open freedom-of-services operations?
+PREFIX iro:    <https://gov.tesseract.academy/def/insurance#>
+PREFIX irosch: <https://gov.tesseract.academy/def/insurance/scheme#>
+SELECT ?home (COUNT(?op) AS ?open_fps_operations) WHERE {
+    ?op a iro:CrossBorderOperation ;
+        iro:operationMode irosch:EEAFreedomOfServices ;
+        iro:operationOf ?u .
+    FILTER NOT EXISTS { ?op iro:operationEnd ?e }
+    ?u iro:homeCountry ?home .
+} GROUP BY ?home ORDER BY DESC(?open_fps_operations) LIMIT 10

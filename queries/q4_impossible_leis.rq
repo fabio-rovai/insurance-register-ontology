@@ -1,0 +1,7 @@
+# LEI values that cannot exist: recorded checksum state is false.
+PREFIX iro: <https://gov.tesseract.academy/def/insurance#>
+SELECT ?lei ?name WHERE {
+    ?id a iro:LEI ; iro:identifierValue ?lei ; iro:checksumValid false ;
+        iro:identifies ?u .
+    ?u iro:legalName ?name .
+}

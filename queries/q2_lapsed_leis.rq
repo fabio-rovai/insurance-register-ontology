@@ -1,0 +1,9 @@
+# Active undertakings whose LEI registration has LAPSED in GLEIF.
+PREFIX iro: <https://gov.tesseract.academy/def/insurance#>
+SELECT ?name ?lei WHERE {
+    ?reg iro:registrationOf ?u .
+    FILTER NOT EXISTS { ?reg iro:registrationEnd ?end }
+    ?u iro:legalName ?name ; iro:identifiedBy ?id .
+    ?id a iro:LEI ; iro:identifierValue ?lei ;
+        iro:gleifRegistrationStatus "LAPSED" .
+} ORDER BY ?name
