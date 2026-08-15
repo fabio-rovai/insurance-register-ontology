@@ -22,11 +22,30 @@ All figures from the 14 Aug 2026 EIOPA export and same-day GLEIF harvest. Both a
 | 5 | LEIs filed for more than one register key: **227**, of which **56** carry materially different names, of which **3 are hard entity collapses**, including `549300KCPG3666EE4546` filed for both **SCOR Global Reinsurance France** and **SCOR Global Reinsurance Ireland DAC**, two distinct reinsurance legal entities on one identifier | **227 / 56 / 3** |
 | 6 | Open cross-border operation rows belonging to undertakings whose home registration has **ended**, passports outliving the authorization they derive from | **283** |
 | 7 | Register names that disagree with the GLEIF legal name even after aggressive normalization (e.g. MAPFRE MIDDLESEA vs MAPFRE MALTA, a rename one side has not caught up with) | **402 of 2,661 (15.1%)** |
-| 8 | Across ALL 3,630 distinct LEIs filed anywhere in the register: ISSUED 2,590, RETIRED 680, LAPSED 351, DUPLICATE 3, **ANNULLED 1**, not in GLEIF 4 |, |
+| 8 | Across ALL 3,630 distinct LEIs filed anywhere in the register: ISSUED 2,590, RETIRED 680, LAPSED 351, DUPLICATE 3, **ANNULLED 1**, not in GLEIF 4 | see left |
 
 The passporting fabric itself: **13,848 open freedom-of-services operations**; top exporters DE (2,794), IE (1,658), FR (1,280), LU (1,166), NL (1,140), MT (915), Ireland, Luxembourg and Malta passport far above their domestic weight, which is the single-market working as designed and measurable from the graph in one query.
 
 Full numbers, method, caveats: [BUILD_REPORT.md](BUILD_REPORT.md) and [reports/GOVERNANCE_REPORT.md](reports/GOVERNANCE_REPORT.md).
+
+## The second opinion: EIOPA against a national regulator
+
+Finding 1 needed testing. 643 active insurers with no LEI is either a real absence or a transmission failure between national authorities and EIOPA. 492 of the 643 are German, so `pipeline/cross_register_de.py` joins the EIOPA register to BaFin's own published register under strict matching (EIOPA identification code against BaFin REG NR / BAFIN-ID / BAK NR, or exact normalised legal name). Full output: [reports/CROSS_REGISTER_DE.md](reports/CROSS_REGISTER_DE.md).
+
+| Result | Number |
+|---|---|
+| BaFin insurance register rows carrying an LEI | **1,074 of 5,400 (19.9%)** |
+| German-supervised entities (excluding EEA inbound service providers) carrying an LEI | **505 of 4,824 (10.5%)** |
+| BaFin-listed reinsurers carrying an LEI | **29 of 76 (38.2%)** |
+| LEI values in BaFin's own file failing ISO 7064 | **5**, three of them **19 characters long** (truncation, not typing) |
+| EIOPA-no-LEI German undertakings matched into BaFin under strict rules | **44 of 492** |
+| Of those, undertakings where **BaFin holds a valid LEI that EIOPA does not** | **14**, incl. Gothaer, Nürnberger, HDI, Generali |
+| Strictly matched undertakings holding an LEI in **both** registers | **344** |
+| Of those, values that **disagree** | **0** |
+
+Two readings, both operational. The gap is mostly real at source: BaFin publishes an LEI for only 10.5% of the German entities it supervises, so the European register is if anything the more complete of the two. But the pipe leaks as well: 14 undertakings that EIOPA records as having no LEI demonstrably have a valid one in their own regulator's public file, free to obtain. And the reassuring result: where both registers populate the field they agree on every single value. European insurance entity data has a coverage problem, not a contradiction problem.
+
+A fuzzy prefix match was implemented, tested, and **rejected**: it collapsed two distinct Saarland insurers onto one LEI, which is exactly the error class this repository exists to catch. Only strict matches are reported, so 14 is a floor, not an estimate.
 
 ## Why this exists
 
@@ -58,6 +77,7 @@ pipeline/checksums.py            ISO 7064 MOD 97-10 with embedded test vectors
 pipeline/build_graph.py          Two-pass join -> Turtle (home-registered vs presences)
 pipeline/validate.py             pyshacl gate over the full graph
 pipeline/governance_report.py    Set-based rules + automated governance report
+pipeline/cross_register_de.py    EIOPA against BaFin: is the LEI gap real or a broken pipe?
 queries/                         5 verified SPARQL queries (counts match the report exactly)
 reports/GOVERNANCE_REPORT.md     The generated findings report
 ```
@@ -71,6 +91,7 @@ python pipeline/harvest_gleif.py      # ~3,630 LEIs, ~10 min at unauthenticated 
 python pipeline/build_graph.py        # 276k triples in ~15 s
 python pipeline/validate.py           # SHACL gate, ~8 s
 python pipeline/governance_report.py  # reports/GOVERNANCE_REPORT.md
+python pipeline/cross_register_de.py  # reports/CROSS_REGISTER_DE.md (needs the BaFin export)
 ```
 
 Layer-3 rules ship as standard SHACL-SPARQL and are executed set-based by the reference pipeline; on an Oxigraph-backed engine they run as written (see the [rdflib scale measurement](https://github.com/fabio-rovai/open-ontologies/tree/main/case-studies/investment-fund-ontology) from the sibling project: rdflib's failure mode at register scale is the multi-way self-join, not the anti-join).
