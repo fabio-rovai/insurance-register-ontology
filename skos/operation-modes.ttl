@@ -63,7 +63,7 @@ irosch:LEI a skos:Concept ;
 irosch:NationalIdentificationCode a skos:Concept ;
     skos:inScheme irosch:identifierSchemes ;
     skos:prefLabel "national identification code"@en ;
-    skos:definition "The identification code the home NCA assigns to the undertaking, carried by the EIOPA register. Unique only within the issuing NCA's namespace; formats differ per country. NCA-scoped, not global — the scope declaration is the data quality rule."@en ;
+    skos:definition "The identification code the home NCA assigns to the undertaking, carried by the EIOPA register. Unique only within the issuing NCA's namespace; formats differ per country. NCA-scoped, not global, the scope declaration is the data quality rule."@en ;
     iro:identifierScope irosch:AuthorityScoped .
 
 irosch:EntityScoped a skos:Concept ;

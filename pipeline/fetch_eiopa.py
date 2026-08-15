@@ -35,7 +35,7 @@ def main():
     disp = resp.headers.get("Content-Disposition", "")
     if "attachment" not in disp:
         raise SystemExit(f"export postback did not return a file (Content-Disposition: {disp!r}); "
-                         "the page structure may have changed — re-derive EXPORT_TARGET from the page source")
+                         "the page structure may have changed, re-derive EXPORT_TARGET from the page source")
     os.makedirs("data", exist_ok=True)
     with open("data/eiopa_register.csv", "wb") as f:
         f.write(body)

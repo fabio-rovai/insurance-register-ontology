@@ -10,7 +10,7 @@ Output:
   data/build/build_stats.json
 
 Entity identity. A HOME-REGISTERED undertaking is keyed by (home country, NCA
-identification code) taken from its "Domestic undertaking" row — the
+identification code) taken from its "Domestic undertaking" row, the
 register's own primary key. Branch rows frequently carry the HOST NCA's
 registration code instead (measured: 171 of 298 LEIs with domestic+branch
 rows use a different code on the branch row), so non-domestic rows are

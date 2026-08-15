@@ -91,7 +91,7 @@ def main():
     detail["r5_shared_leis_diff_names"] = {l: sorted(lei_names[l]) for l in sorted(shared_diff_name)}
     detail["r5_hard_collapse"] = {l: sorted(lei_names[l]) for l in sorted(shared_hard)}
 
-    # R6: zombie passports — open operation rows for ended registrations
+    # R6: zombie passports, open operation rows for ended registrations
     reg_end = {}
     for r in dom:
         key = (r["Home Country"].strip(), r["Identification code"].strip())
@@ -155,22 +155,22 @@ def main():
              ", ".join(f"{c} {n}" for c, n in no_lei_by_country.most_common(10)) + ".\n")
     L.append("R2, in full, with the undertaking that filed each impossible value:\n")
     for l, name, c in bad_rows:
-        L.append(f"- `{l}` — {name} ({c})")
+        L.append(f"- `{l}`: {name} ({c})")
     L.append("\n`5493O00MN7XN3BBKCE67` is a letter O where the real LEI "
              "`5493000MN7XN3BBKCE67` (same undertaking, per GLEIF) has a zero: a hand-keyed "
              "transposition sitting in the official register. None of the four values exists in GLEIF.\n")
     L.append(f"R3 by home country: " +
              ", ".join(f"{c} {n}" for c, n in lapsed_by_country.most_common(10)) + ".\n")
-    L.append("R5's three hard collapses — materially different names sharing one LEI on "
+    L.append("R5's three hard collapses, materially different names sharing one LEI on "
              "domestic registrations only:\n")
     for l in sorted(shared_hard):
-        L.append(f"- `{l}` — " + " / ".join(sorted(lei_names[l])[:3]))
+        L.append(f"- `{l}`: " + " / ".join(sorted(lei_names[l])[:3]))
     L.append("\nOne of the three is a reinsurance pair: SCOR Global Reinsurance France and "
              "SCOR Global Reinsurance Ireland Designated Activity Company, two distinct legal "
              "entities filed under the same LEI. The remaining "
              f"{len(shared_diff_name) - len(shared_hard)} different-name shares involve branch "
              "rows, where a branch legitimately carries its head office's LEI under a host "
-             "NCA's identification code — the scope distinction the ontology's scheme registry "
+             "NCA's identification code, the scope distinction the ontology's scheme registry "
              "declares as data.\n")
 
     L.append("## 3. GLEIF status of the register's LEIs\n")

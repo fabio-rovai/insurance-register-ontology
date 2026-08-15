@@ -1,6 +1,6 @@
 # Automated governance report: the EEA insurance register fabric
 
-Generated 2026-08-14 by pipeline/governance_report.py from the EIOPA Register of Insurance Undertakings bulk export and per-LEI GLEIF API records harvested the same day. Every figure is computed; nothing is hand-typed. Both sources are living systems, so a re-fetch will produce different totals.
+Generated 2026-08-15 by pipeline/governance_report.py from the EIOPA Register of Insurance Undertakings bulk export and per-LEI GLEIF API records harvested the same day. Every figure is computed; nothing is hand-typed. Both sources are living systems, so a re-fetch will produce different totals.
 
 ## 1. Universe
 
@@ -27,22 +27,22 @@ R1 by home country (top 10): DE 492, SE 81, BE 24, AT 23, DK 5, BG 5, HU 4, NO 4
 
 R2, in full, with the undertaking that filed each impossible value:
 
-- `00000000000000000000` — European Risk Insurance Company ehf. (DE)
-- `529900TDXS505XDXWZ69` — Forsikringsaktieselskabet K.a.B. International (DK)
-- `549300X77HR0ZWZELM25` — Застрахователно акционерно дружество Булстрад Виена Иншурънс Груп (BG)
-- `5493O00MN7XN3BBKCE67` — AP Skadesforsikring Aktieselskab (DK)
+- `00000000000000000000`: European Risk Insurance Company ehf. (DE)
+- `529900TDXS505XDXWZ69`: Forsikringsaktieselskabet K.a.B. International (DK)
+- `549300X77HR0ZWZELM25`: Застрахователно акционерно дружество Булстрад Виена Иншурънс Груп (BG)
+- `5493O00MN7XN3BBKCE67`: AP Skadesforsikring Aktieselskab (DK)
 
 `5493O00MN7XN3BBKCE67` is a letter O where the real LEI `5493000MN7XN3BBKCE67` (same undertaking, per GLEIF) has a zero: a hand-keyed transposition sitting in the official register. None of the four values exists in GLEIF.
 
 R3 by home country: FR 63, ES 10, BG 7, AT 6, NL 6, DK 4, NO 4, DE 4, SE 2, EE 2.
 
-R5's three hard collapses — materially different names sharing one LEI on domestic registrations only:
+R5's three hard collapses, materially different names sharing one LEI on domestic registrations only:
 
-- `213800KL7RVEKAJHQO02` — ARNOLD CLARK (MALTA) LIMITED / ARNOLD CLARK LIFE INSURANCE (MALTA) LIMITED
-- `529900FQ7DWNLPNRN517` — Lippische Landes-Brandversicherungsanstalt / Lippische Landesbrandversicherung AG
-- `549300KCPG3666EE4546` — SCOR GLOBAL REINSURANCE France / SCOR Global Reinsurance Ireland Designated Activity Company
+- `213800KL7RVEKAJHQO02`: ARNOLD CLARK (MALTA) LIMITED / ARNOLD CLARK LIFE INSURANCE (MALTA) LIMITED
+- `529900FQ7DWNLPNRN517`: Lippische Landes-Brandversicherungsanstalt / Lippische Landesbrandversicherung AG
+- `549300KCPG3666EE4546`: SCOR GLOBAL REINSURANCE France / SCOR Global Reinsurance Ireland Designated Activity Company
 
-One of the three is a reinsurance pair: SCOR Global Reinsurance France and SCOR Global Reinsurance Ireland Designated Activity Company, two distinct legal entities filed under the same LEI. The remaining 53 different-name shares involve branch rows, where a branch legitimately carries its head office's LEI under a host NCA's identification code — the scope distinction the ontology's scheme registry declares as data.
+One of the three is a reinsurance pair: SCOR Global Reinsurance France and SCOR Global Reinsurance Ireland Designated Activity Company, two distinct legal entities filed under the same LEI. The remaining 53 different-name shares involve branch rows, where a branch legitimately carries its head office's LEI under a host NCA's identification code, the scope distinction the ontology's scheme registry declares as data.
 
 ## 3. GLEIF status of the register's LEIs
 

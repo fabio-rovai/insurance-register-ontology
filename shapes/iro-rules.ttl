@@ -9,7 +9,7 @@
 #
 # Shipped as standard SHACL-SPARQL for platforms that execute it
 # natively. The reference pipeline executes the identical SPARQL
-# set-based (pipeline/governance_report.py) — and the same rules
+# set-based (pipeline/governance_report.py), and the same rules
 # run as written on an Oxigraph-backed engine; see the rdflib
 # measurement in the Investment Fund Ontology case study at
 # github.com/fabio-rovai/open-ontologies (multi-way self-joins
@@ -82,8 +82,8 @@ iro:ActiveUndertakingLapsedLEIShape a sh:NodeShape ;
         """ ;
     ] .
 
-# R4: active undertaking whose LEI's ENTITY is INACTIVE per GLEIF
-# — the register says authorised, GLEIF says the legal entity has
+# R4: active undertaking whose LEI's ENTITY is INACTIVE per GLEIF.
+# The register says authorised, GLEIF says the legal entity has
 # ceased. One of the two systems is wrong about a live insurer.
 iro:ActiveUndertakingGleifInactiveShape a sh:NodeShape ;
     sh:targetClass iro:InsuranceUndertaking ;
