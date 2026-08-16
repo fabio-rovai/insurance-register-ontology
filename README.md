@@ -1,5 +1,7 @@
 # Insurance Register Ontology (IRO)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21970556.svg)](https://doi.org/10.5281/zenodo.21970556)
+
 An open OWL 2 ontology, SKOS registries, and SHACL governance layer for the **authorization, cross-border operation, and identifier fabric of insurance and reinsurance undertakings**, built and validated against the entire EEA register:
 
 - **33,924 register rows** from the EIOPA Register of Insurance Undertakings bulk export (every EU/EEA-authorised insurance and reinsurance undertaking, with every cross-border operation row),
