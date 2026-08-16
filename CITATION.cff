@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this ontology or the register findings, please cite it."
 title: "Insurance Register Ontology (IRO): the EEA insurance register fabric as a knowledge graph"
+version: 0.1.0
 authors:
   - family-names: Rovai
     given-names: Fabio
