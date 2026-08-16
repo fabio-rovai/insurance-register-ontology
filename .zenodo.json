@@ -1,0 +1,26 @@
+{
+  "upload_type": "software",
+  "title": "Insurance Register Ontology (IRO)",
+  "description": "An open OWL 2 ontology, SKOS registries, and SHACL governance layer for the authorization, cross-border operation, and identifier fabric of insurance and reinsurance undertakings, built and validated against the entire EEA register: 33,924 EIOPA register rows and 3,630 distinct LEI values, every one check-digit validated and cross-checked against a same-day GLEIF API harvest, joined into a 276,683-triple knowledge graph. The disagreements between the EU's own register of (re)insurers and the global LEI system are computed, graded and queryable, including a strict cross-register comparison against BaFin's published register. Code is MIT; ontology, SKOS registries, shapes and reports are CC BY 4.0.",
+  "creators": [
+    {
+      "name": "Rovai, Fabio",
+      "affiliation": "The Tesseract Academy (Kampakis and Co Ltd)"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "ontology",
+    "SHACL",
+    "insurance",
+    "reinsurance",
+    "register assurance",
+    "identifier governance"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/fabio-rovai/insurance-register-ontology"
+    }
+  ]
+}
